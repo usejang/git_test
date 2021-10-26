@@ -5,7 +5,7 @@ This is for github test
  - Machine learning
  - Deep learning
 
-## Resolved confliction
+# Resolved confliction
 
  1. ML
  2. DL
